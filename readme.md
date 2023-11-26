@@ -1,4 +1,4 @@
 # Real-time Clickstream Analytics
 
 ## Architecture
-![Alt text](./images/Architecture diagram.png.png)
+<img src="./images/architecture diagram.png" width="800">
