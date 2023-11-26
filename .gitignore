@@ -1,0 +1,11 @@
+log
+logs
+todo.txt
+.user.yml
+.env
+__pycache__/
+*.drawio
+*.pdf
+*.lnk
+*.pptx
+
